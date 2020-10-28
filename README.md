@@ -6,11 +6,11 @@ Portfolio made with React
 
 https://github.com/dlekwjd347/REACT-Portfolio
 
-https://dlekwjd347.github.io/REACT-Portfolio/
+https://dlekwjd347.github.io/REACT-Portfolio/index.html
 
 ## Deployed App:
 
 
-![alt text](https://github.com/dlekwjd347/REACT-Portfolio/blob/main/reactportfolio/public/assets/images/deployed1.JPG)
-![alt text](https://github.com/dlekwjd347/REACT-Portfolio/blob/main/reactportfolio/public/assets/images/deployed2.JPG)
-![alt text](https://github.com/dlekwjd347/REACT-Portfolio/blob/main/reactportfolio/public/assets/images/deployed3.JPG)
+![alt text](https://github.com/dlekwjd347/REACT-Portfolio/blob/main/public/assets/images/deployed1.JPG)
+![alt text](https://github.com/dlekwjd347/REACT-Portfolio/blob/main/public/assets/images/deployed2.JPG)
+![alt text](https://github.com/dlekwjd347/REACT-Portfolio/blob/main/public/assets/images/deployed3.JPG)
