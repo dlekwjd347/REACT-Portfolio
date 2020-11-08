@@ -7,12 +7,13 @@ function footer() {
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-md-8">
-              <h2 className="text-primary mb-5 font-weight-bold">Let's work together to make your business grow dramatically.</h2>
+              <h2 className="text-primary slogan">Let's work together to make your business grow dramatically.</h2>
               <p><a href="about.html" className="more-29291">View My Services</a></p>
             </div>
           </div>
         </div>
       </div>
+      <div className="footerend"> 
       <div className="footer site-section footercont">
         <div className="container">
           <div className="row">
@@ -47,6 +48,7 @@ function footer() {
             </div>
           </div>
         </div>
+      </div>
       </div>
       </>
     )

@@ -26,7 +26,7 @@ function Home() {
             <div className="container">
               <div className="row align-items-center justify-content-center">
                 <div className="col-lg-8">
-                  <h1 className="mb-5 text-primary font-weight-bold" data-aos="fade-up">Hi, I'm Liz. I create with <Typed /></h1>
+                  <h1 className="lead" data-aos="fade-up">Hi, I'm Liz. I create with <Typed /></h1>
                   <p data-aos="fade-up" data-aos-delay="100"><a className="more-29291" href="ELEE_Resume.pdf" target="_blank" id="resume">View Resume</a></p>
                 </div>
               </div>

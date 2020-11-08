@@ -2,6 +2,20 @@
 
 .App {
   text-align: center;
+  font-family: 'Old Standard TT', serif;
+  font-size: 20px;
+}
+
+.name {
+  font-size: 30px;
+}
+
+
+.lead {
+   font-family: 'Old Standard TT', serif;
+   font-style: italic;
+   color: black;
+   font-weight: normal;
 }
 
 .App-logo {
@@ -39,3 +53,10 @@
   }
 }
 
+.slogan {
+  font-style: italic;
+}
+
+a {
+  color: black;
+}

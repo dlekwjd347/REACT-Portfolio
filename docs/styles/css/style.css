@@ -759,7 +759,7 @@ h1, h2, h3, h4, h5,
 
 /* Blocks */
 .bg-tertiary {
-  background: #dcedb9; }
+  background: black; }
 
 .site-section-cover {
   position: relative;
@@ -774,7 +774,7 @@ h1, h2, h3, h4, h5,
       height: 90%;
       content: "";
       right: 0;
-      background-color: #DCCFEC; }
+      background-color: white; }
   .site-section-cover,
   .site-section-cover .container {
     position: relative;
@@ -809,9 +809,7 @@ h1, h2, h3, h4, h5,
     background-repeat: no-repeat; }
   .site-section-cover h1 {
     font-size: 4rem;
-    line-height: 1.3;
-    font-family: "Roboto", sans-serif;
-    font-weight: 900 !important; }
+    line-height: 1.3;}
     @media (max-width: 991.98px) {
       .site-section-cover h1 {
         font-size: 2rem; } }
@@ -1327,7 +1325,7 @@ h1, h2, h3, h4, h5,
     color: #4f517D; }
 
 .bg-light {
-  background-color: #dcedb9 !important; }
+  background-color: black !important; }
 
 .post-entry-1 {
   border: 2px solid #4f517D;
@@ -1805,7 +1803,7 @@ h1, h2, h3, h4, h5,
     content: "";
     left: 0;
     top: 0;
-    background-color: #DCCFEC; }
+    background-color: WHITE; }
 
 .media-29101 img {
   margin-bottom: 20px; }
@@ -1817,7 +1815,7 @@ h1, h2, h3, h4, h5,
     color: #6c757d; }
 
 .feature-92912 {
-  background-color: #DCCFEC;
+  background-color: WHITE;
   padding: 40px;
   margin-bottom: 30px;
   position: relative;
@@ -1865,7 +1863,7 @@ h1, h2, h3, h4, h5,
 .testimony-29101 .text {
   width: 60%;
   padding: 40px;
-  background: #DCCFEC; }
+  background: WHITE; }
   .testimony-29101 .text blockquote {
     position: relative;
     padding-bottom: 50px;
@@ -1955,7 +1953,7 @@ h1, h2, h3, h4, h5,
   }
 
   .footercont{
-    background-color:#DCCFEC ;
+    background-color:WHITE ;
   }
 
   .portcover {
