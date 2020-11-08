@@ -55,6 +55,7 @@
 
 .slogan {
   font-style: italic;
+  color: white;
 }
 
 a {
@@ -65,4 +66,16 @@ a {
   background-color: black;
   padding-top: 30px;
   padding-bottom: 10px;
+}
+
+.portheading {
+  padding-top: 50px;
+  margin-top: 90px;
+  color: black;
+  font-size: 40px;
+  font-style: italic;
+}
+
+h3 {
+  font-size: 20px;
 }

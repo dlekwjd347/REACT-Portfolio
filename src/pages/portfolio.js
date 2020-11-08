@@ -6,10 +6,10 @@ function portfolio() {
     return (
         <>
             <Header />
-<section id="portfolio" className="page-section bg-light">
+  <div className="page-section">
           <div className="container">
             <div className="text-center">
-              <h2 className="text-primary font-weight-bold portheading" id="projects">Portfolio</h2>
+              <h2 className="portheading" id="projects">PORTFOLIO</h2>
               <h3 className="section-subheading text-muted psub">Dynamically created projects</h3>
             </div>
             <div className="row">
@@ -106,7 +106,7 @@ function portfolio() {
               </div>
             </div>
           </div>
-        </section>
+        </div>
 
 <div className="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
 <div className="modal-dialog">

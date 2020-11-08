@@ -7,7 +7,7 @@ function footer() {
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-md-8">
-              <h2 className="text-primary slogan">Let's work together to make your business grow dramatically.</h2>
+              <h2 className="slogan">Let's work together to make your business grow dramatically.</h2>
               <p><a href="about.html" className="more-29291">View My Services</a></p>
             </div>
           </div>
