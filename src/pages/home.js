@@ -2,11 +2,14 @@ import React from 'react';
 import Typed from "../components/typed";
 import Header from "../components/header";
 import Footer from "../components/footer";
+import BodyImg from "../components/body";
 
 function Home() {
   return (
     <>
+    <BodyImg />
     <Header />
+   
       <div data-spy="scroll" data-target=".site-navbar-target" data-offset="300" />
       <div className="site-wrap" id="home-section">
         <div className="site-mobile-menu site-navbar-target">
@@ -19,7 +22,7 @@ function Home() {
         </div>
 
         <div className="ftco-blocks-cover-1">
-          <div className="site-section-cover half-bg">
+          <div className="site-section-cover">
             <div className="container">
               <div className="row align-items-center justify-content-center">
                 <div className="col-lg-8">
@@ -67,6 +70,7 @@ function Home() {
             </div>
           </div>
         </div>
+      
         <Footer />
 
 
