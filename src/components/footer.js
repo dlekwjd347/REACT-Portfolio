@@ -3,7 +3,7 @@ import React from 'react';
 function footer() {
     return (
         <>
-        <div className="site-section bg-tertiary mottocont">
+        <div className="site-section slogancont">
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-md-8">
@@ -19,7 +19,7 @@ function footer() {
           <div className="row">
             <div className="col-md-3">
               <div className="site-logo-footer">
-                <a href="index.html">Elizabeth Lee</a>
+                <a className="name" href="index.html">Elizabeth Lee</a>
               </div>
             </div>
             <div className="col-md-8 ml-auto">

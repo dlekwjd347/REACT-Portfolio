@@ -8,7 +8,7 @@ function header() {
           <div className="row align-items-center position-relative">
             <div className="col-3 ">
               <div className="site-logo">
-                <a href="index.html" className="name">Elizabeth Lee</a>
+                <a href="/" className="name">Elizabeth Lee</a>
               </div>
             </div>
             <div className="col-9  text-right">

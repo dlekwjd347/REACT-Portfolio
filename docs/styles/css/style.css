@@ -771,7 +771,7 @@ h1, h2, h3, h4, h5,
     .site-section-cover.half-bg:before {
       position: absolute;
       width: 50%;
-      height: 90%;
+      height: 70%;
       content: "";
       right: 0;
       background-color: white; }
@@ -1949,7 +1949,7 @@ h1, h2, h3, h4, h5,
   }
 
   .mottocont{
-    margin-bottom: 50px;
+    margin-bottom: 20px;
   }
 
   .footercont{
