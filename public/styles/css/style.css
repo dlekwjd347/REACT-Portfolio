@@ -781,7 +781,8 @@ h1, h2, h3, h4, h5,
     z-index: 2; }
   .site-section-cover,
   .site-section-cover .container > .row {
-    height: calc(69vh - 322px);}
+    height: 45vh;
+  margin-top: 10vh;}
     @media (max-width: 991.98px) {
       .site-section-cover,
       .site-section-cover .container > .row {

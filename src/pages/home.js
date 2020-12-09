@@ -62,8 +62,8 @@ function Home() {
                         <div className="image" style={{ backgroundImage: `url("../assets/images/me3.jpg")` }}></div>
                         <div className="text">
                           <blockquote>
-                            <p>Learning how to code is my new-found passion. My field of expertise includes HTML, CSS, Bootstrap, Javascript, and React. With these skills, I provide efficient solutions to clients globally.</p>
-                            <p>I am currently employed as a Financial Crimes Consultant at K2 Intelligence. I provide support to financial institutions like banks and hedge funds to strengthen their Anti-Money Laundering policies and procedures by leveraging advanced screening systems and subject matter expertise.</p>
+                            <p>Trying to solve problems no matter the complexity has always been a welcoming challenge for me. My recent studies has gained me the fields of expertise that includes HTML, CSS, Bootstrap, Javascript, and React. With these skills, I can provide efficient solutions to clients globally.</p>
+                            <p>I am currently employed as a Financial Crimes Consultant at K2 Integrity where I provide support to financial institutions like banks and hedge funds to strengthen their Anti-Money Laundering policies and procedures by leveraging advanced screening systems and subject matter expertise.</p>
                             <div className="author">&mdash; Elizabeth Lee</div>
                           </blockquote>
                         </div>
