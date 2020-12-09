@@ -4711,10 +4711,10 @@ a.close.disabled {
   margin: 0.5rem;
   pointer-events: none; }
   .modal.fade .modal-dialog {
-    -webkit-transition: -webkit-transform 0.3s ease-out;
+    /* -webkit-transition: -webkit-transform 0.3s ease-out;
     transition: -webkit-transform 0.3s ease-out;
     -o-transition: transform 0.3s ease-out;
-    transition: transform 0.3s ease-out;
+    transition: transform 0.3s ease-out; */
     transition: transform 0.3s ease-out, -webkit-transform 0.3s ease-out;
     -webkit-transform: translate(0, -50px);
     -ms-transform: translate(0, -50px);

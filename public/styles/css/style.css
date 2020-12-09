@@ -1942,7 +1942,8 @@ h1, h2, h3, h4, h5,
   }
 
   .page-section {
-    height: 900px;
+    margin-top: 5vw;
+    height: 65vw;
   }
 
   .portfoliocardbot {
@@ -1959,8 +1960,8 @@ h1, h2, h3, h4, h5,
 
   .portcover {
     width: 100%;
-    height: 12vw;
-    object-fit: cover;
+    height: 17vw;
+    object-fit: contain;
   }
 
 .portfoliocard {
@@ -1969,8 +1970,8 @@ h1, h2, h3, h4, h5,
 
 .portfolio-caption-heading {
   font-weight: bold;
-  font-size: 18px;
-  color: #4f517d;
+  font-size: 23px;
+  color: black;
 }
 
 #aboutMe {

@@ -60,16 +60,16 @@ function portfolio() {
               </div>
               <div className="col-lg-4 col-sm-6 mb-4 mb-lg-0 portfoliocardbot">
                 <div className="portfolio-item post-entry-1 h-100 portfoliocard animate__animated animate__slideInUp">
-                  <a className="portfolio-link" data-toggle="modal" href="#portfolioModal4" />
+                  <a className="portfolio-link" data-toggle="modal" href="#portfolioModal4">
                   <div className="portfolio-hover">
                     <div className="portfolio-hover-content"><i className="fas fa-plus fa-3x"></i></div>
                   </div>
                   <img src="assets/images/stylish-yellow-stairway-in-creative-building-3802666.jpg" alt="Image"
                     className="img-fluid portcover" />
-                  <a />
+                  </a>
                   <div className="post-entry-1-contents">
                     <div className="portfolio-caption">
-                      <div className="portfolio-caption-heading">Employee Management System</div>
+                      <div className="portfolio-caption-heading">Media Made</div>
                     </div>
                   </div>
                 </div>
@@ -84,7 +84,7 @@ function portfolio() {
                   </a>
                   <div className="post-entry-1-contents">
                     <div className="portfolio-caption">
-                      <div className="portfolio-caption-heading">Node Express Handlebars</div>
+                      <div className="portfolio-caption-heading">Eat Da Burger!</div>
                     </div>
                   </div>
                 </div>
@@ -114,7 +114,7 @@ function portfolio() {
     <div className="close-modal" data-dismiss="modal"><img src="/assets/images/close-icon.svg" alt="Close modal" /></div>
     <div className="container">
       <div className="row justify-content-center">
-        <div className="col-lg-8">
+        <div className="col-lg-6">
           <div className="modal-body">
             <h2 className="text-uppercase">Simpli-Stocks</h2>
             <p className="item-intro text-muted">No more financial mumbo jumbo.</p>
@@ -207,7 +207,7 @@ function portfolio() {
                     <div className="modal-body">
                       <h2 className="text-uppercase">MEDIA MADE</h2>
                       <p className="item-intro text-muted">Have you ever found yourself watching your favorite TV show and wish you could wear a piece of clothing one of the characters is wearing? Well this application is perfect for you! Look no further! We have done all the research and provided all the outfits of your favorite tv show!</p>
-                      <img className="img-fluid d-block mx-auto" src="" alt="" />
+                      <img className="img-fluid d-block mx-auto" src="/assets/images/mediamadegif.gif" alt="Media Made" />
                       <p>Be inspired by your favorite TV shows and curate your own personal closet. When people go on our application, we are providing an easy to use platform that aggregates outfits and brands based on TV shows that may otherwise be difficult to find. People will feel inspired and learn how to create their own outfits. Given our society’s climate today, online shopping is becoming more prevalent as buyers are turning towards e-commerce sources.</p>
                       <ul className="list-inline">
                         <li>Date: November 2020</li>

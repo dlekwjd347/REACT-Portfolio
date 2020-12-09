@@ -1957,8 +1957,8 @@ h1, h2, h3, h4, h5,
   }
 
   .portcover {
-    width: 100%;
-    height: 12vw;
+    width: 90vw;
+    height: 20vw;
     object-fit: cover;
   }
 
