@@ -56,7 +56,7 @@ function Home() {
               <div className="site-section">
                 <div className="container" id="aboutMe">
                   <div className="row justify-content-center">
-                    <div className="col-md-9">
+                    <div className="col-md-10">
                       <h2 className="text-primary mb-6 font-weight-bold portheading">About me</h2>
                       <div className="d-md-flex testimony-29101 align-items-stretch portfoliocard animate__animated animate__slideInUp">
                         <div className="image" style={{ backgroundImage: `url("../assets/images/me3.jpg")` }}></div>
