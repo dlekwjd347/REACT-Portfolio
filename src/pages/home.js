@@ -9,8 +9,8 @@ function Home() {
   return (
     <>
       <Header />
-      <Parallax strength={700}>
-        <Background className="custom-bg">
+      {/* <Parallax strength={700}> */}
+        {/* <Background className="custom-bg">
           <div
             style={{
               height: 2000,
@@ -23,7 +23,7 @@ function Home() {
               backgroundImage: "url('https://www.moma.org/media/W1siZiIsIjI0Njc4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=3a1ed95974c1c0be')"
             }}
           />
-        </Background>
+        </Background> */}
         <div>
 
 
@@ -98,10 +98,8 @@ function Home() {
           </div>
           <div />
         </div>
-      </Parallax>
-      {/* <BodyImg /> */}
-
       {/* </Parallax> */}
+   
     </>)
 
 }
