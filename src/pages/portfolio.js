@@ -205,16 +205,19 @@ function portfolio() {
                 <div className="row justify-content-center">
                   <div className="col-lg-8">
                     <div className="modal-body">
-                      <h2 className="text-uppercase">Employee Management System</h2>
-                      <p className="item-intro text-muted">As a business owner<br />
-                                          I want to be able to view and manage the departments, roles, and employees in my company<br />
-                                          So that I can organize and plan my business</p>
-                      <img className="img-fluid d-block mx-auto" src="https://raw.githubusercontent.com/dlekwjd347/Elizabeth-Employee-Tracker/master/assets/screenshots/viewAll.JPG" alt="" />
-                      <p>Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as Content Management Systems. This app will architect and build a solution for managing a company's employees using node, inquirer, and MySQL.</p>
+                      <h2 className="text-uppercase">MEDIA MADE</h2>
+                      <p className="item-intro text-muted">Have you ever found yourself watching your favorite TV show and wish you could wear a piece of clothing one of the characters is wearing? Well this application is perfect for you! Look no further! We have done all the research and provided all the outfits of your favorite tv show!</p>
+                      <img className="img-fluid d-block mx-auto" src="" alt="" />
+                      <p>Be inspired by your favorite TV shows and curate your own personal closet. When people go on our application, we are providing an easy to use platform that aggregates outfits and brands based on TV shows that may otherwise be difficult to find. People will feel inspired and learn how to create their own outfits. Given our society’s climate today, online shopping is becoming more prevalent as buyers are turning towards e-commerce sources.</p>
                       <ul className="list-inline">
-                        <li>Date: August 2020</li>
+                        <li>Date: November 2020</li>
                       </ul>
-                      <a href="https://github.com/dlekwjd347/Elizabeth-Employee-Tracker" target="_blank">
+                      <a href="https://damp-ocean-72048.herokuapp.com/" target="_blank">
+                        <button className="btn btn-primary" type="button">
+                          <i className="fas fa-times mr-1"></i>
+                                          See Project
+                                      </button></a>
+                      <a href="https://github.com/AndreG303/MEDIA-MADE" target="_blank">
                         <button className="btn btn-primary" type="button">
                           <i className="fas fa-times mr-1"></i>
                                           See Github
@@ -236,7 +239,7 @@ function portfolio() {
                 <div className="row justify-content-center">
                   <div className="col-lg-8">
                     <div className="modal-body">
-                      <h2 className="text-uppercase">Node Express Handlebars</h2>
+                      <h2 className="text-uppercase">Eat Da Burger!</h2>
                       <p className="item-intro text-muted">This burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). <br /> This app will follow the MVC design pattern; use Node and MySQL to query and route data in the app, and Handlebars to generate the HTML.</p>
                       <img className="img-fluid d-block mx-auto" src="https://raw.githubusercontent.com/dlekwjd347/Elizabeth-Burger/master/public/assets/screenshots/Capture1.JPG" alt="" />
                       <ul>
